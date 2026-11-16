@@ -1,0 +1,50 @@
+vtu
+{
+    display: block;
+    margin: 10px;
+    font-size: 20pt;
+}
+student
+{
+    display: block;
+    margin:10px;
+    border: 20px solid;
+}
+usn
+{
+	display:block;
+	margin-left:20px;
+	color:red;
+}
+name
+{
+	display:block;
+	margin-left:20px;
+	color:blue;
+}
+collname
+{
+     display:block;
+	margin-left:20px;
+	color:green;
+}
+prog
+{
+	display:block;
+	margin-left:20px;
+	color:yellow;
+}
+year
+{
+	display:block;
+	margin-left:20px;
+	color:pink;
+	
+}
+email
+{
+	display:block;
+	margin-left:20px;
+	color:darkcyan;
+
+}

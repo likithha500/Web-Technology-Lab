@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="4.css"?>
+<vtu>
+<student>
+<usn>USN:1BY24CS122</usn>
+<name>NAME:LIKITH</name>
+<collname>COLLEGE NAME:BMSITM</collname>
+<prog>PROGRAM:B.E</prog>
+<year>YEAR OF JOINING:2024</year>
+<email>EMAIL:24ug1bycs122@gmailo.com</email>
+</student>
+<student>
+<usn>USN:1BY24CS111</usn>
+<name>NAME:LIKITHA S</name>
+<collname>COLLEGE NAME:BMSITM</collname>
+<prog>PROGRAM:B.E</prog>
+<year>YEAR OF JOINING:2024</year>
+<email>EMAIL:24ug1bycs111@gmailo.com</email>
+</student>
+<student>
+<usn>USN:1BY24CS100</usn>
+<name>NAME:LH</name>
+<collname>COLLEGE NAME:BMSITM</collname>
+<prog>PROGRAM:B.E</prog>
+<year>YEAR OF JOINING:2024</year>
+<email>EMAIL:24ug1bycs100@gmailo.com</email>
+</student>
+</vtu>
